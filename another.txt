@@ -1,4 +1,9 @@
 Another file for Git
 
 web
+<<<<<<< HEAD
 lee hyo chan
+=======
+
+for colab
+>>>>>>> d3b98d7d748df1bf7a382d077a41e59082fb73f6
